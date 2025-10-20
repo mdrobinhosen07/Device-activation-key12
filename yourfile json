@@ -6,9 +6,9 @@
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
+        "device_id": "0888b46705364739",
         "key": "vipfree",
-        "expirydate": "15-06-2025",
-        "Allowoffline": true
+        "expirydate": "23-10-2025",
+        "Allowoffline": false
     }
 ]
