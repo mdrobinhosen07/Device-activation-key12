@@ -10,5 +10,10 @@
         "key": "HEYSO FREE",
         "expirydate": "23-10-2025",
         "Allowoffline": false
+    }, {
+        "device_id": "0888b46705364739",
+        "key": "HEYSO1234",
+        "expirydate": "23-10-2025",
+        "Allowoffline": false
     }
 ]
